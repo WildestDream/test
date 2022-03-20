@@ -36,5 +36,10 @@ public class App
         System.out.println("master");
     }
 
+    private void f1(){
+        System.out.println("f1");
+    }
+
+
 }
 
