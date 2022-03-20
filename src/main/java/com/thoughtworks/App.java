@@ -25,6 +25,9 @@ public class App
     private void fork(){
         System.out.println("fork");
     }
+    private void master(){
+        System.out.println("master");
+    }
 
 }
 
