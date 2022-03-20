@@ -37,6 +37,9 @@ public class App
         System.out.println("f1");
     }
 
+    private void printFork(){
+        System.out.println("fork 提交");
+    }
     private void printMaster(){
         System.out.println("master 分支");
     }
