@@ -22,7 +22,7 @@ public class App
         return super.clone();
     }
 
-    private void fork(){
+    private void fork123(){
         System.out.println("fork");
     }
 
