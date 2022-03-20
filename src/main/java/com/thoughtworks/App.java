@@ -41,7 +41,7 @@ public class App
         System.out.println("fork 提交2 ");
     }
     private void printMaster(){
-        System.out.println("ma ster fdsf 支");
+        System.out.println("ma s ter fdsf 支");
     }
 
 }
