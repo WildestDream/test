@@ -37,6 +37,9 @@ public class App
         System.out.println("f1");
     }
 
+    private void printMaster(){
+        System.out.println("master 分支");
+    }
 
 }
 
