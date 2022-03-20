@@ -17,6 +17,11 @@ public class App
         return "App{}";
     }
 
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+
     private void fork(){
         System.out.println("fork");
     }
