@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      System.out.println("already merge fei 123");
+      System.out.println("create merge request!123456");
+        System.out.println("cherryPick");
     }
 }
