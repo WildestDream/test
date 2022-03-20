@@ -12,6 +12,11 @@ public class App
         System.out.println("test fork");
     }
 
+    @Override
+    public String toString() {
+        return "App{}";
+    }
+
     private void fork(){
         System.out.println("fork");
     }
