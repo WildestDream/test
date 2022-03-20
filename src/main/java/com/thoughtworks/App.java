@@ -12,28 +12,25 @@ public class App
         System.out.println("test fork");
     }
 
+    @Override
+    public String toString() {
+        return "App{}";
+    }
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
         return super.clone();
     }
 
-    private void fork123(){
-        System.out.println("fork");
-    }
-
-
-    @Override
-    public String toString() {
-        return "App{}";
-    }
-
-
     private void fork(){
         System.out.println("fork");
     }
     private void master(){
         System.out.println("master");
+    }
+
+    private void m1(){
+        System.out.println("add m1");
     }
 
     private void f1(){
