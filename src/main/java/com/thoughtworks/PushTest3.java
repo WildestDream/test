@@ -5,8 +5,5 @@ public class PushTest3 {
         System.out.println("squash test!2");
         System.out.println("squash test!2");
         System.out.println("squash test!2");
-        System.out.println("squash test!2");
-        System.out.println("squash test!2");
-        System.out.println("squash test!2");
     }
 }
